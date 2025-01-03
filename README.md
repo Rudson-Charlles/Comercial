@@ -23,7 +23,4 @@ As queries SQL utilizadas no projeto estão disponíveis na pasta `Queries_SQL/`
 
 As queries foram otimizadas para garantir que os dados sejam consistentes e relevantes para o painel.
 
-### Como usar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Rudson-Charlles/Portifolio.git
+
